@@ -1,0 +1,41 @@
+html {
+  box-sizing: border-box;
+  font-family: sans-serif;
+  line-height: 1.5;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  padding: inherit;
+  background-color: #e2e2e2;
+}
+header {
+
+}
+
+header img {
+
+}
+
+header h1 {
+
+}
+
+header p {
+
+}
+
+nav ul {
+
+}
+
+nav a {
+
+}
